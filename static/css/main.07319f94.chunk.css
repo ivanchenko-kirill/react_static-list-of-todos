@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column;justify-content:center;align-items:center}.todo-table{border:3px solid purple;border-collapse:collapse;text-align:center}.todo-table__head{background-color:#aca5a5}.todo-table__body-row--done{background-color:#9acd32}.todo-table__body-row--undone{background-color:#b17777}td,th{padding:20px;border:1px solid #706969}
+/*# sourceMappingURL=main.07319f94.chunk.css.map */
